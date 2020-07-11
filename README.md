@@ -2,6 +2,10 @@
 
 Exploration of bitdev and styled component
 
+## Released Component Preview on BitDev
+
+![bitdev gallery preview](https://i.ibb.co/smG6gHy/Screen-Shot-2020-07-12-at-00-13-04.png)
+
 ## Dev Component Preview with Storybook
 
 ![storybook gallery preview](https://i.ibb.co/CwhMzC9/Screen-Shot-2020-07-11-at-23-33-21.png)
@@ -30,6 +34,7 @@ npm run storybook
 ### Bit Dev
 
 - Repo :
+- Sample Ussage :
 
 ### Release
 

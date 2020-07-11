@@ -1,6 +1,6 @@
 {
   "name": "bitdev-styled-components-exploration",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Exploration of bitdev and styled component",
   "main": "index.js",
   "scripts": {
@@ -27,5 +27,12 @@
     "@storybook/addon-knobs": "^5.3.19",
     "@storybook/react": "^5.3.19",
     "babel-loader": "^8.1.0"
+  },
+  "bit": {
+    "env": {
+      "compiler": "bit.envs/compilers/react@1.0.20"
+    },
+    "componentsDefaultDirectory": "components/{name}",
+    "packageManager": "npm"
   }
 }
