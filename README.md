@@ -33,8 +33,8 @@ npm run storybook
 
 ### Bit Dev
 
-- Repo :
-- Sample Ussage :
+- Repo : https://bit.dev/yussan/styled-components-exploration
+- Sample Usage : https://bit.dev/yussan/styled-components-exploration/button?example=5f09f402167bd80019735b70
 
 ### Release
 
