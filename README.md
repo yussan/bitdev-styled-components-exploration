@@ -36,10 +36,6 @@ npm run storybook
 - Repo : https://bit.dev/yussan/styled-components-exploration
 - Sample Usage : https://bit.dev/yussan/styled-components-exploration/button?example=5f09f402167bd80019735b70
 
-### Release
-
-[ON PROGRESS]
-
 ## Things to learn
 
 - BitDev : https://docs.bit.dev/docs/react-guidelines
